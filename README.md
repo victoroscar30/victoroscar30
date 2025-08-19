@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Victor Monteiro
 
-<!--
-**victoroscar30/victoroscar30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Consultor ERP** explorando novas tecnologias  
+🌱 Apaixonado por aprender e aplicar **Data, AI, Python, C#, SQL e Cloud**  
+🚀 Foco em transformar conhecimento em soluções reais e projetos práticos  
+📚 Compartilho aqui projetos, experimentos e estudos que refletem meu aprendizado contínuo  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias & Ferramentas
+- **Linguagens:** Python, C#, SQL  
+- **Ferramentas & Plataformas:** Git, GitHub, ERP Systems, Cloud (Azure/AWS)  
+- **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
+
+---
+
+## 📌 Meus objetivos
+- Aprimorar habilidades em Data & AI  
+- Criar projetos que resolvam problemas reais  
+- Compartilhar conhecimento e experiências com a comunidade  
+
+---
+
+<!-- Se quiser, você também pode adicionar **links fixos para seus repositórios mais relevantes** ou outras redes, mas isso deixa o README clean e genérico, mostrando **curiosidade, aprendizado e profissionalismo**. -->

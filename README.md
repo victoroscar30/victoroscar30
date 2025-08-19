@@ -1,6 +1,24 @@
-# 💫 About Me:
-# Olá! 👋 Eu sou Victor Monteiro<br><br>💻 **Consultor ERP** explorando novas tecnologias  <br>🌱 Apaixonado por aprender e aplicar **Data, AI, Python, C#, SQL e Cloud**  <br>🚀 Foco em transformar conhecimento em soluções reais e projetos práticos  <br>📚 Compartilho aqui projetos, experimentos e estudos que refletem meu aprendizado contínuo  <br><br>---<br><br>## 🛠 Tecnologias & Ferramentas<br>- **Linguagens:** Python, C#, SQL  <br>- **Ferramentas & Plataformas:** Git, GitHub, ERP Systems, Cloud (Azure/AWS)  <br>- **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  <br><br>---<br><br>## 📌 Meus objetivos<br>- Aprimorar habilidades em Data & AI  <br>- Criar projetos que resolvam problemas reais  <br>- Compartilhar conhecimento e experiências com a comunidade  <br><br>---
+# Olá! Eu sou Victor Monteiro
 
+💻 **Consultor ERP** explorando novas tecnologias  
+🌱 Apaixonado por aprender e aplicar **Data, AI, Python, C#, SQL e Cloud**  
+🚀 Foco em transformar conhecimento em soluções reais e projetos práticos  
+📚 Compartilho aqui projetos, experimentos e estudos que refletem meu aprendizado contínuo  
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+- **Linguagens:** Python, C#, SQL  
+- **Ferramentas & Plataformas:** Git, GitHub, ERP Systems, Cloud (Azure/AWS)  
+- **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
+
+---
+
+## 📌 Meus objetivos
+- Aprimorar habilidades em Data & AI  
+- Criar projetos que resolvam problemas reais  
+- Compartilhar conhecimento e experiências com a comunidade  
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-monteiro-339291221/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victoroscar30@gmail.com) 

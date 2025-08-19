@@ -7,8 +7,7 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-- **Linguagens:** Python, C#, SQL  
+## 🛠 Tecnologias & Ferramentas 
 - **Ferramentas & Plataformas:** Git, GitHub, ERP Systems, Cloud (Azure/AWS)  
 - **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
 
@@ -21,10 +20,11 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-monteiro-339291221/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victoroscar30@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-monteiro-339291221/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:victoroscar30@gmail.com) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=victoroscar30&theme=blue_navy&hide_border=true)<br/>

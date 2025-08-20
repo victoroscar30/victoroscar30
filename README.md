@@ -1,3 +1,5 @@
+![Banner do Projeto](assets/lofiimage.jpg)
+
 <p align="center">
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>

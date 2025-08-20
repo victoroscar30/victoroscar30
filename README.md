@@ -2,7 +2,7 @@
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=victoroscar30&style=for-the-badge">
 </a>
 
 <!--

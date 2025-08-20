@@ -1,9 +1,6 @@
 <p align="center">
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=victoroscar30&style=for-the-badge">
-</a>
 
 <!--
 [Ÿ HŸPE]: https://yhype.me
@@ -60,6 +57,10 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=victoroscar30&icon=9&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=victoroscar30&icon=9&color=1)](https://visitcount.itsvg.in) -->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=victoroscar30&style=for-the-badge">
+</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

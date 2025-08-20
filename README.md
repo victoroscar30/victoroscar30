@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tecnologias & Ferramentas 
-- **Ferramentas & Plataformas:** Git, GitHub, ERP Systems, Cloud (Azure/AWS)  
+- **Ferramentas & Plataformas:** Git, GitHub, ERP Systems  
 - **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
 
 ---

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
+</p>
+
 # Olá! Eu sou Victor Monteiro
 
 💻 **Consultor ERP** explorando novas tecnologias  

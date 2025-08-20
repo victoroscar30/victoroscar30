@@ -3,13 +3,6 @@
 </p>
 
 <!--
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?account_id=1849174)
-
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Overpass&pause=1000&color=FF00FF&center=true&width=600&lines=Helping+you+turn+data+into+what+really+matters;Coding+solutions+for+real+business+problems;Always+learning%2C+always+building;Innovation+through+logic+and+creativity;Data+in+motion%2C+code+in+action" alt="Typing SVG">
@@ -58,6 +51,8 @@
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=victoroscar30&icon=9&color=1)](https://visitcount.itsvg.in) 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=victoroscar30&style=for-the-badge">
 </a>

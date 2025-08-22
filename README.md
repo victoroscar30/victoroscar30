@@ -44,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
 </p>
 
+<!-- 
 <details>
 <summary><h1>📊 <b>GitHub Stats:</b></h1></summary>
   <p align="left">
@@ -52,6 +53,30 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </p>
 </details>
+I´m still deciding
+-->
+
+<details>
+<summary><h1>📊 <b>GitHub Stats:</b></h1></summary>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=victoroscar30&theme=blue_navy&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</details>
+
 
 
 

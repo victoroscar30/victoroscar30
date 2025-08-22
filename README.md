@@ -14,7 +14,7 @@
 ---
 
 ## 🛠 Tecnologias & Ferramentas 
-- **Ferramentas & Plataformas:** Git, GitHub, ERP Systems  
+- **Ferramentas & Plataformas:** Benner ERP, Git, GitHub  
 - **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
 
 ---

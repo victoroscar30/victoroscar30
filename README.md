@@ -70,7 +70,7 @@ I´m still deciding
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoroscar30&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />

@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<!-- 
+
 <details>
 <summary><h1>📊 <b>GitHub Stats:</b></h1></summary>
   <p align="left">
@@ -62,7 +62,7 @@
   </p>
 </details>
 I´m still deciding
--->
+
 
 <details>
 <summary><h1>📊 <b>GitHub Stats:</b></h1></summary>

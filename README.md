@@ -1,29 +1,33 @@
-![Banner do Projeto](assets/lofiimage.jpg)
+![Project Banner](assets/lofiimage.jpg)
 
 <p align="center">
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>
 
-# Olá! Eu sou Victor Monteiro
+# Hello! I'm Victor Monteiro  
 
-💻 **Consultor ERP** explorando novas tecnologias  
-🌱 Apaixonado por aprender e aplicar **Data, AI, Python, C#, SQL e Cloud**  
-🚀 Foco em transformar conhecimento em soluções reais e projetos práticos  
-📚 Compartilho aqui projetos, experimentos e estudos que refletem meu aprendizado contínuo  
-
----
-
-## 🛠 Tecnologias & Ferramentas 
-- **Ferramentas & Plataformas:** Benner ERP, Git, GitHub  
-- **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
+💻 **ERP Consultant integrating Data & AI into business solutions**  
+🌱 Passionate about continuous learning and applying **Python, C#, SQL, and Cloud** to real-world challenges  
+🚀 Building projects that connect **ERP expertise with data-driven approaches**  
+📚 I believe in progress through consistency — *“Good enough is good enough”* guides my learning journey  
+✨ My purpose is to grow while sharing knowledge, so that others can also learn, apply, and create impact  
 
 ---
 
-## 📌 Meus objetivos
-- Aprimorar habilidades em Data & AI  
-- Criar projetos que resolvam problemas reais  
-- Compartilhar conhecimento e experiências com a comunidade  
+## 🛠 Technologies & Tools  
+
+- **ERP & Business Systems:** Benner ERP, SQL  
+- **Programming Languages:** Python, C#  
+- **Data & AI Ecosystem:** Pandas, NumPy, scikit-learn (studying & applying in projects)  
+- **Cloud & Dev Tools:** Git, GitHub, Docker (learning and experimenting)  
+
 ---
+
+## 📌 My Goals  
+
+- Strengthen expertise in **Data & AI** while integrating it with ERP and business processes  
+- Develop practical projects that **solve real problems with measurable value**  
+- Contribute knowledge to the community and grow through collaboration  
 
 # 💻 Tech Stack:
 

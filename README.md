@@ -5,7 +5,7 @@
 </p>
 <div align="right">
   <a href="./README_PT.md">
-    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="20" alt="PT-BR"> PT-BR
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="30" alt="PT-BR">
   </a>
 </div>
 

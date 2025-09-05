@@ -3,9 +3,13 @@
 <p align="center">
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>
+<div align="right">
+  <a href="./README_PT.md">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="20" alt="PT-BR"> PT-BR
+  </a>
+</div>
 
 # Hello! I'm Victor Monteiro  
-
 💻 **ERP Consultant integrating Data & AI into business solutions**  
 🌱 Passionate about continuous learning and applying **Python, C#, SQL, and Cloud** to real-world challenges  
 🚀 Building projects that connect **ERP expertise with data-driven approaches**  

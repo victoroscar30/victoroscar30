@@ -3,27 +3,36 @@
 <p align="center">
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>
+<div align="right">
+  <a href="./README_PT.md">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="30" alt="EN">
+  </a>
+</div>
 
-# Olá! Eu sou Victor Monteiro
-
-💻 **Consultor ERP** explorando novas tecnologias  
-🌱 Apaixonado por aprender e aplicar **Data, AI, Python, C#, SQL e Cloud**  
-🚀 Foco em transformar conhecimento em soluções reais e projetos práticos  
-📚 Compartilho aqui projetos, experimentos e estudos que refletem meu aprendizado contínuo  
+# Olá! Eu sou Victor Monteiro  
+💻 **Consultor ERP integrando Data & AI em soluções de negócios**  
+🌱 Apaixonado por aprendizado contínuo e pela aplicação de **Python, C#, SQL e Cloud** em desafios reais  
+🚀 Desenvolvendo projetos que conectam **expertise em ERP com abordagens orientadas a dados**  
+📚 Acredito no progresso através da consistência — *“Good enough is good enough”* guia minha jornada de aprendizado  
+✨ Meu propósito é crescer enquanto compartilho conhecimento, para que outros também possam aprender, aplicar e gerar impacto  
 
 ---
 
-## 🛠 Tecnologias & Ferramentas 
-- **Ferramentas & Plataformas:** Benner ERP, Git, GitHub  
-- **Interesses:** Data Engineering, Machine Learning, Inteligência Artificial, Automação  
+## 🛠 Tecnologias & Ferramentas  
+
+- **ERP e Sistemas de Negócio:** Benner ERP, SQL  
+- **Linguagens de Programação:** Python, C#  
+- **Ecossistema de Dados e IA:** Pandas, NumPy, scikit-learn (estudando e aplicando em projetos)  
+- **Cloud & Ferramentas de Desenvolvimento:** Git, GitHub, Docker (aprendendo e experimentando)  
 
 ---
 
-## 📌 Meus objetivos
-- Aprimorar habilidades em Data & AI  
-- Criar projetos que resolvam problemas reais  
-- Compartilhar conhecimento e experiências com a comunidade  
----
+## 📌 Meus Objetivos  
+
+- Aprimorar a expertise em **Data & AI** enquanto integro com ERP e processos de negócio  
+- Desenvolver projetos práticos que **resolvam problemas reais com valor mensurável**  
+- Contribuir com conhecimento para a comunidade e crescer através da colaboração  
+
 
 # 💻 Tech Stack:
 

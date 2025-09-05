@@ -4,7 +4,7 @@
   <img src="assets/welcome-wordeffect.gif" alt="Matrix Welcome">
 </p>
 <div align="right">
-  <a href="./README.md">
+  <a href="https://github.com/victoroscar30">
     <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="30" alt="EN">
   </a>
 </div>

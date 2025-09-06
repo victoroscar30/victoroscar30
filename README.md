@@ -9,7 +9,7 @@
   </a>
 </div>
 
-# Hello! I'm Victor Monteiro  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40" /> Hello! I'm Victor Monteiro  
 💻 **ERP Consultant integrating Data & AI into business solutions**  
 🌱 Passionate about continuous learning and applying **Python, C#, SQL, and Cloud** to real-world challenges  
 🚀 Building projects that connect **ERP expertise with data-driven approaches**  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Technologies & Tools  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="40" height="40" /> Technologies & Tools  
 
 - **ERP & Business Systems:** Benner ERP, SQL  
 - **Programming Languages:** Python, C#  
@@ -27,13 +27,13 @@
 
 ---
 
-## 📌 My Goals  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="40" height="35" /> My Goals  
 
 - Strengthen expertise in **Data & AI** while integrating it with ERP and business processes  
 - Develop practical projects that **solve real problems with measurable value**  
 - Contribute knowledge to the community and grow through collaboration  
 
-# 💻 Tech Stack:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
 </p>
 
-## 🧠 Business Solutions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Hand%20gestures/Brain.png" alt="Laptop" width="40" height="40" />  Business Solutions
 <p align="left">
   <a href="https://www.benner.com.br/">
     <img src="assets/BennerLogo.png" alt="BennerLogo" width="60" height="60"/>
@@ -74,7 +74,7 @@ I´m still deciding
 -->
 
 <details>
-<summary><h1>📊 <b>GitHub Stats:</b></h1></summary>
+<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> <h1><b>GitHub Stats:</b></h1></summary>
 
 <table align="center">
   <tr>

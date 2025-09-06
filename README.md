@@ -33,7 +33,7 @@
 - Develop practical projects that **solve real problems with measurable value**  
 - Contribute knowledge to the community and grow through collaboration  
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
@@ -55,6 +55,9 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Hand%20gestures/Brain.png" alt="Laptop" width="40" height="40" />  Business Solutions
+💡 Experienced in **ERP integration and process automation** using **Benner ERP**.  
+🤖 Focused on creating solutions that connect ERP with **Data & AI**, improving decision-making and business performance.  
+
 <p align="left">
   <a href="https://www.benner.com.br/">
     <img src="assets/BennerLogo.png" alt="BennerLogo" width="60" height="60"/>
@@ -73,8 +76,7 @@
 I´m still deciding
 -->
 
-<details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> <h1><b>GitHub Stats:</b></h1></summary>
+<details> <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> <h1><b>GitHub Stats:</b></h1></summary>
 
 <table align="center">
   <tr>
@@ -94,10 +96,20 @@ I´m still deciding
 
 </details>
 
+<details>
+<summary><sub><i> 🔗 Click here to check out the references I used </i></sub></summary>
 
+- Animated Emojis:  
+  - [Microsoft Teams Emojis](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis)  
+  - [Telegram Emojis](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)
 
+- [Flags](https://flagicons.lipis.dev/)  
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
+- Tools and Languages → individual badges  
+- General resources → [dipree’s repo](https://github.com/dipree/github-markdown)  
+- Inspiration → [Dev.to Guide](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)  
+- Partial creation → [GPRM](https://gprm.itsvg.in)
 
+</details>
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- I really had a lot of inspiration here: (https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) --> 

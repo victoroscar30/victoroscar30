@@ -9,7 +9,7 @@
   </a>
 </div>
 
-# Olá! Eu sou Victor Monteiro  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="40" height="40" />  Olá! Eu sou Victor Monteiro  
 💻 **Consultor ERP integrando Data & AI em soluções de negócios**  
 🌱 Apaixonado por aprendizado contínuo e pela aplicação de **Python, C#, SQL e Cloud** em desafios reais  
 🚀 Desenvolvendo projetos que conectam **expertise em ERP com abordagens orientadas a dados**  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="40" height="40" />  Tecnologias & Ferramentas  
 
 - **ERP e Sistemas de Negócio:** Benner ERP, SQL  
 - **Linguagens de Programação:** Python, C#  
@@ -27,14 +27,14 @@
 
 ---
 
-## 📌 Meus Objetivos  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart Increasing" width="40" height="35" /> Meus Objetivos  
 
 - Aprimorar a expertise em **Data & AI** enquanto integro com ERP e processos de negócio  
 - Desenvolver projetos práticos que **resolvam problemas reais com valor mensurável**  
 - Contribuir com conhecimento para a comunidade e crescer através da colaboração  
 
 
-# 💻 Tech Stack:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
@@ -44,6 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 </div>
 
 ### IDEs & Tools  
@@ -54,7 +55,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
 </p>
 
-## 🧠 Business Solutions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Hand%20gestures/Brain.png" alt="Laptop" width="40" height="40" /> Business Solutions
+ 💡 Experiente em **integração de ERP e automação de processos** utilizando **Benner ERP**. \
+ 🤖 Focado na criação de soluções que conectam ERP com **Dados & IA**, melhorando a tomada de decisão e a performance dos negócios.
+ 
 <p align="left">
   <a href="https://www.benner.com.br/">
     <img src="assets/BennerLogo.png" alt="BennerLogo" width="60" height="60"/>
@@ -73,8 +77,7 @@
 I´m still deciding
 -->
 
-<details>
-<summary><h1>📊 <b>GitHub Stats:</b></h1></summary>
+<details><summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> <h1><b>GitHub Stats:</b></h1></summary>
 
 <table align="center">
   <tr>
@@ -94,6 +97,23 @@ I´m still deciding
 
 </details>
 
+</details>
+
+<details>
+<summary><sub><i> 🔗 Clique aqui para conferir as referências que utilizei </i></sub></summary>
+
+- Emojis animados:  
+  - [Microsoft Teams Emojis](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis)  
+  - [Telegram Emojis](https://github.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis)
+
+- [Bandeiras](https://flagicons.lipis.dev/)  
+- [Estatísticas do GitHub Readme](https://github.com/anuraghazra/github-readme-stats)  
+- Ferramentas e Linguagens → badges individuais  
+- Recursos gerais → [repositório do dipree](https://github.com/dipree/github-markdown)  
+- Inspiração → [Guia no Dev.to](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)  
+- Criação parcial → [GPRM](https://gprm.itsvg.in)
+
+</details>
 
 
 

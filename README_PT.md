@@ -76,7 +76,6 @@
 </details>
 I´m still deciding
 -->
-
 <details><summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="40" height="40" /> <h1><b>GitHub Stats:</b></h1></summary>
 
 <table align="center">
@@ -97,7 +96,8 @@ I´m still deciding
 
 </details>
 
-</details>
+### Obrigado por visitar! <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+
 
 <details>
 <summary><sub><i> 🔗 Clique aqui para conferir as referências que utilizei </i></sub></summary>

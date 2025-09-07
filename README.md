@@ -96,6 +96,8 @@ I´m still deciding
 
 </details>
 
+### Thank you for stopping by! <img class=" lazyloaded" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31">
+
 <details>
 <summary><sub><i> 🔗 Click here to check out the references I used </i></sub></summary>
 
